@@ -1,0 +1,15 @@
+git init
+git log
+git status
+git add filename
+git add .
+git commit -m "commit message"
+git diff nameofthefile.extension
+git checkout filename
+
+git rm --cached -r .
+r->recursive
+rm->remove
+
+this command is used to remove the files from staging
+area....:)
